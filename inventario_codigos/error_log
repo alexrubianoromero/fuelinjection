@@ -110,3 +110,6 @@
 [03-Nov-2021 13:09:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ctwtvsxj/public_html/fuelinjection/valotablapc.php on line 48
 [11-Nov-2021 14:16:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ctwtvsxj/public_html/fuelinjection/valotablapc.php on line 48
 [25-Nov-2021 23:52:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ctwtvsxj/public_html/fuelinjection/valotablapc.php on line 48
+[25-May-2022 19:16:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ctwtvsxj/public_html/fuelinjection/valotablapc.php on line 48
+[06-Aug-2022 19:02:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ctwtvsxj/public_html/fuelinjection/valotablapc.php on line 48
+[15-Nov-2022 16:39:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ctwtvsxj/public_html/fuelinjection/valotablapc.php on line 48
